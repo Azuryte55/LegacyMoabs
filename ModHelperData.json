@@ -1,0 +1,10 @@
+{
+  "Name": "LegacyMoabs",
+  "Description": "Restores the classic 2D MOAB, BFB, ZOMG, DDT and BAD appearances.",
+  "Version": "1.0.0",
+  "RepoName": "LegacyMoabs",
+  "RepoOwner": "Azuryte55",
+  "WorksOnVersion": "56",
+  "DllName": "LegacyMoabs.dll",
+  "SquareIcon": true
+}
